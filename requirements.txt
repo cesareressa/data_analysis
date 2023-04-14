@@ -1,0 +1,15 @@
+name: dataanalysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - wordcloud
+  - ipykernel
+  - pandas
+  - dask
+  - squarify
+  - statsmodels
+  - matplotlib
+  - black
+
